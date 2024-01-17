@@ -14,4 +14,4 @@ GRANT SELECT ON preformance_schema.* TO 'hbnb_dev'@'localhost';
 
 
 -- Making the the previleges active
-FLUSH PRIVILEGES
+FLUSH PRIVILEGES;
